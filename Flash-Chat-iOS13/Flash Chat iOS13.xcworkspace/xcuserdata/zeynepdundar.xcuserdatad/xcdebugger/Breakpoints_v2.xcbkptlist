@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5D89C3C0-5EA4-4835-8E03-DDEA9CFD3B4C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "913EF033-8DCB-4EF1-8AA6-8DD686A34FC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flash Chat iOS13/Controllers/WelcomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82F8A6C9-3482-4BA6-B819-333B8F173F37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flash Chat iOS13/Controllers/WelcomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD00E82B-4005-449E-B0B5-8B9B62F1D20C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flash Chat iOS13/Controllers/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BD00E82B-4005-449E-B0B5-8B9B62F1D20C - a20c5d737bac1e65"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flash_Chat_iOS13.LoginViewController.passwordTextfield.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Flash Chat iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Desktop/swift/Flash-Chat-iOS13/Flash%20Chat%20iOS13/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "BD00E82B-4005-449E-B0B5-8B9B62F1D20C - 78d02baee2ee4271"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flash_Chat_iOS13.LoginViewController.passwordTextfield.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Flash Chat iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Desktop/swift/Flash-Chat-iOS13/Flash%20Chat%20iOS13/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "BD00E82B-4005-449E-B0B5-8B9B62F1D20C - ee61d3074987571"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flash_Chat_iOS13.LoginViewController.passwordTextfield.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "Flash Chat iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Desktop/swift/Flash-Chat-iOS13/Flash%20Chat%20iOS13/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "BD00E82B-4005-449E-B0B5-8B9B62F1D20C - 2cb8cd50a216068c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flash_Chat_iOS13.LoginViewController.passwordTextfield.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flash Chat iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Desktop/swift/Flash-Chat-iOS13/Flash%20Chat%20iOS13/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "BD00E82B-4005-449E-B0B5-8B9B62F1D20C - a267275e054a0474"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flash_Chat_iOS13.LoginViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Flash_Chat_iOS13.LoginViewController"
+                  moduleName = "Flash Chat iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Desktop/swift/Flash-Chat-iOS13/Flash%20Chat%20iOS13/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "291">
+               </Location>
+               <Location
+                  uuid = "BD00E82B-4005-449E-B0B5-8B9B62F1D20C - 9c7eeaedaff34b5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flash_Chat_iOS13.LoginViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flash_Chat_iOS13.LoginViewController&gt;"
+                  moduleName = "Flash Chat iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zeynepdundar/Desktop/swift/Flash-Chat-iOS13/Flash%20Chat%20iOS13/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "223">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
